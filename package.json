@@ -1,6 +1,6 @@
 {
     "name": "assignment4skill",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "description": "Custom VS Code Copilot skills and local hosting utilities for the assignment4 workspace.",
     "license": "MIT",
